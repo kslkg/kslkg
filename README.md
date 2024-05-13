@@ -21,8 +21,8 @@
 ![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 
-
-(http://mazassumnida.wtf/api/v2/generate_badge?boj=kslkg)](https://www.acmicpc.net/user/kslkg)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kslkg)](https://solved.ac/wke1wke1)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kslkg&show_icons=true&theme=radical)
 
 
