@@ -1,7 +1,4 @@
 ## 게임 공방 🌱
-<h4>닉네임:바위게그라탕</h4><h4>관심분야:게임,ai,그림 </h4><h4>게임에 관심이많은 새싹입니다.</h4>
-
-<hr>
 
 
 ![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
@@ -20,6 +17,12 @@
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+<hr>
+
+<h4>닉네임:바위게그라탕</h4><h4>관심분야:게임,ai,그림 </h4><h4>게임에 관심이많은 새싹입니다.</h4>
+
+<hr>
+
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kslkg)](https://solved.ac/wke1wke1)
