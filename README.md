@@ -2,8 +2,9 @@
 
 <!--
 **kslkg/kslkg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wke1wke1)](https://solved.ac/kslkg)
-Here are some ideas to get you started:
+
+Here are some ideas to get you started:[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wke1wke1)](https://solved.ac/wke1wke1)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
