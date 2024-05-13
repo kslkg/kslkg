@@ -1,5 +1,6 @@
 ## 게임 공방 🌱
 <h4>닉네임:바위게그라탕 / 관심분야:게임,ai,그림 / 게임에 관심이많은 새싹입니다.</h4>
+<hr>
 
 ![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ![](https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=Pinterest&logoColor=white)
@@ -23,7 +24,7 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kslkg)](https://solved.ac/wke1wke1)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kslkg&show_icons=true&theme=radical)
 
-<hr>
+
 
 
 
