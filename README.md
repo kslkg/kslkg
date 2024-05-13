@@ -20,7 +20,7 @@
 ![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 <hr>
 
-(http://mazassumnida.wtf/api/v2/generate_badge?boj=kslkg)](https://solved.ac/kslkg)
+(http://mazassumnida.wtf/api/v2/generate_badge?boj=kslkg)](https://www.acmicpc.net/user/kslkg)
 
 
 
