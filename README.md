@@ -21,7 +21,7 @@
 <hr>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kslkg)](https://solved.ac/wke1wke1)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kslkg)](https://solved.ac/kslkg)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kslkg&show_icons=true&theme=radical)
 
 
